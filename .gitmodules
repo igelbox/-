@@ -1,0 +1,6 @@
+[submodule "t0"]
+	path = t0
+	url = ../blender-xray-tests
+[submodule "t1"]
+	path = t1
+	url = https://github.com/igelbox/blender-xray-tests.git
